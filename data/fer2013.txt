@@ -1,0 +1,4 @@
+Download data from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+The zip file has a csv file named fer2013.csv
+This csv is the file used in this project.
